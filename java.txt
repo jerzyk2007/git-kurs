@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-pierwsze repo - zmiana 1
-drugie repo
-=======
+
 pierwsze repo
-drugie repo - zmiana
->>>>>>> 294f2c905a8d3990402f910c2098d7ae1fe49267
+drugie repo - zmiana druga
+
