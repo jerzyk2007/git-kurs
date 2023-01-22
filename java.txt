@@ -1,4 +1,7 @@
-
+<<<<<<< HEAD
+pierwsze repo - zmiana 112
+drugie repo
+=======
 pierwsze repo
 drugie repo - zmiana druga
 
